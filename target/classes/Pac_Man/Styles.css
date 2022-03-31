@@ -1,0 +1,55 @@
+@font-face {
+    -fx-font-family: 'PixeBoy';
+    src: url('../Pac_Man/Pixeboy-z8XGD.ttf');
+}
+
+.root{
+    -fx-background-color: rgba(9, 9, 9, 0.99);
+}
+
+.username{
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-font-family: 'PixeBoy';
+}
+
+.password{
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-font-family: 'PixeBoy';
+}
+
+.registrationbutton{
+    -fx-font-size: 25px;
+    -fx-font-family: 'PixeBoy';
+    -fx-background-color: #f68c1f;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+}
+
+.logintextfields{
+    -fx-border-width:0px;
+    -fx-background-color: rgba(215, 215, 215, 0.97);
+}
+
+.signup{
+    -fx-font-size: 60px;
+    -fx-font-weight: bold;
+    -fx-font-family: 'PixeBoy';
+}
+
+.backbutton{
+    -fx-font-size: 15px;
+    -fx-font-family: 'PixeBoy';
+    -fx-background-color: #f68c1f;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+}
+
+.registerbutton{
+    -fx-font-size: 15px;
+    -fx-font-family: 'PixeBoy';
+    -fx-background-color: #f68c1f;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+}
